@@ -28,5 +28,8 @@ projects/
 # Config with secrets
 settings.json
 
+# Memory
+memory/
+
 # macOS
 .DS_Store
