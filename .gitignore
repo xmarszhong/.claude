@@ -1,0 +1,32 @@
+# Runtime & cache
+cache/
+paste-cache/
+telemetry/
+shell-snapshots/
+session-env/
+downloads/
+
+# Session data
+sessions/
+history.jsonl
+file-history/
+
+# Tasks & plans (ephemeral)
+tasks/
+plans/
+
+# Backups
+backups/
+
+# IDE state
+ide/
+
+# Plugins & projects
+plugins/
+projects/
+
+# Config with secrets
+settings.json
+
+# macOS
+.DS_Store
