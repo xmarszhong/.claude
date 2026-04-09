@@ -27,6 +27,7 @@ projects/
 
 # Config with secrets
 settings.json
+config.json
 
 # Memory
 memory/
